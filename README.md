@@ -36,7 +36,7 @@ In this lab, you will edit the `lab01.py` file that declares a few variables, an
 
 ### Part 1
 
-The variables `cost_per_item` and `quantity` contain numeric values.  Use these two variables to calculate the total cost (before tax) of the items, which calculates the cost of purchasing `quantity` of an item which will cost `cost_per_item` each, putting the value in a new variable called `subtotal_cost`.  Next, calculate the tax on this `subtotal_cost` and put this value into another variable, called `tax`, which will be 13% of the cost (HST).  Finally, assign the sum of these two variables to a new variable, called `total_cost`.
+The variables `cost_per_item` and `quantity` contain numeric values.  Use these two variables to calculate the total cost (before tax) of the items, which calculates the cost of purchasing `quantity` of an item which will cost `cost_per_item` each, putting the value in a new variable called  `subtotal_cost`. Next, calculate the tax on this `subtotal_cost` and put this value into another variable, called `tax`, which will be 13% of the cost (HST).  Finally, assign the sum of these two variables to a new variable, called `total_cost`.
 
 
 ### Part 2
